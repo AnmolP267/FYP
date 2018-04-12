@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shoot \'em Down</string>
+    <string name="name">Shoot \'em Down</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="howToTitle">How to Play</string>
+    <string name="about">About</string>
+    <string name="howTo">To play Shoot em Down, press the left side of the screen to \n boost up.
+        Press the right side of the screen to shoot the droids.\n You cannot boost or shoot at the same time so be tactical!! \nRemember, you only have two lives so make them count!!</string>
+</resources>
